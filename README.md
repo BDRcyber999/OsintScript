@@ -1,0 +1,2 @@
+# OsintScript
+Untuk Osint
